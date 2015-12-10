@@ -1,1 +1,1 @@
-# ark
+# Samples for HiForest unit tests
